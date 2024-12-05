@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.carrementfleurs.com/modules/prestablog/views/img/grid-for-1-7/up-img/thumb_86.jpg?b976f445e536e07aee0d4366c5806d5c" align="center" style="width: 80%" height="50%" />
+<img src="https://www.carrementfleurs.com/modules/prestablog/views/img/grid-for-1-7/up-img/thumb_86.jpg?b976f445e536e07aee0d4366c5806d5c" align="center" style="width: 80%" height="20%" />
 </div>  
   
 

@@ -6,7 +6,7 @@
 ### <div align="center">Je suis Léonce MOUSSONGUI, future Administrateur Réseau diplômée à La Plateforme Marseille💥</div>  
   
 
-- 👩‍💻En cours vers ma spécialisation en Cybersécurité  
+- 👩‍💻En spécialisation de Cybersécurité  
   
 
 - 🎶 Fan de Céline Dion et Tiakola  
